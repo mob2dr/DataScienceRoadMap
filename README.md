@@ -16,16 +16,16 @@
 - [Getting Started with Python](https://www.coursera.org/learn/python?specialization=python)
     
  **Libraries:**  
-  ***Pandas**  
-      - [Corey Schafer](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
-      - [Kaggle Tutorial](https://www.kaggle.com/learn/pandas)
-      
-   ***Numpy*** One of them 
-      - [Huawei Talent Numpy Tutorial](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view?usp=sharing)
-      - [Numpy Tutorial For Beginners](https://www.kaggle.com/code/legendadnan/numpy-tutorial-for-beginners-data-science)
-      
-   ***Python Regular Expression***
-      - [Python Regular Expression Tutorial](https://www.datacamp.com/tutorial/python-regular-expression-tutorial)
+     ***Pandas*** 
+         - [Corey Schafer](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+         - [Kaggle Tutorial](https://www.kaggle.com/learn/pandas)
+         
+      ***Numpy*** One of them 
+         - [Huawei Talent Numpy Tutorial](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view?usp=sharing)
+         - [Numpy Tutorial For Beginners](https://www.kaggle.com/code/legendadnan/numpy-tutorial-for-beginners-data-science)
+         
+      ***Python Regular Expression***
+         - [Python Regular Expression Tutorial](https://www.datacamp.com/tutorial/python-regular-expression-tutorial)
       
 ### 2. **Statistics**  
 - [Statquist](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)(Recommended)
