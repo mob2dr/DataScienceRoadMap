@@ -40,7 +40,7 @@
    - [introduction-to-sql](https://app.datacamp.com/learn/courses/introduction-to-sql)
    - [Introduction to Relational Databases in SQL](https://app.datacamp.com/learn/courses/introduction-to-sql)
 
-### 5. **Git & GitHub**  
+### 4. **Git & GitHub**  
 - [Elzero Web School](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)(Recommended)
 
 
