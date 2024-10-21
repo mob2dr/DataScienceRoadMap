@@ -107,29 +107,19 @@ or<br>
 
 *** The Nex Steps, I perefer select career Data science and AI or PowerBI ***
 
-
+# *Advanced Data science and AI*
 # Advanced A
 
 ## **More Mathematics**<br>
 `Studying these topics in parallel with Machine Learning is recommended`<br>
-### 1.**Probability & Staistics:**
-- [Probability](https://www.coursera.org/learn/probability-theory-statistics)-Coursera<br>
-- [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)-Khan Academy<br>
-- [MIT applied probability](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)<br>
-- [Harvard Statistics110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)<br>
+### 1.**Mathematics For ML **
+- [Mathematics for Machine Learning]-Coursera<br>
+      - [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning)-Coursera<br>
+      - [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning)-Coursera<br>
+      - [PCA](https://www.coursera.org/learn/pca-machine-learning?specialization=mathematics-machine-learning)-Coursera<br>
+- [Harvard Statistics110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)-Coursera<br>
 
-**Books**
-- [Think Stats](https://b-ok.africa/book/2737548/7659e9)<br>
-- [Think Bayes](https://b-ok.africa/book/2737587/ab97d5)<br>
-
-### 2.**Linear Algebra**
-**English**
-- [Mit Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)<br>
-
-**Arabic**
-- [Linear Algebra In Arabic](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D](https://www.youtube.com/watch?v=tGnnO04YtPA&list=PLQkyODvJ8ywu5cwBgKm_BPQ-bIUknhjA6)
-
-### 3.**Infrential Statistics**
+### 2.**Infrential Statistics**
 - [Coursera: Inferential stats 1](https://www.coursera.org/specializations/statistics-with-python)
 - [Coursera: Inferential stats 2](https://www.coursera.org/learn/statistical-inferences)
 - [Coursera: Bayesian Statistics 1](https://www.coursera.org/learn/bayesian-statistics)
@@ -137,22 +127,14 @@ or<br>
 - [Coursera: Mixture Models](https://www.coursera.org/learn/mixture-models)
 
 #### ML Journey Begins from here:
-### 1. **Math for ML** <br>
-- [Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)-Coursera<br>
-- [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)-Youtube<br>
-- [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)-Youtube<br>
-
-### 2. **ML**<br>
+### 1. **ML**<br>
 - [Statquist](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)(Recommended)
-- [Coursera: Machine Learning Specialization](https://www.coursera.org/learn/machine-learning)(Recommended)
-- [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-- [Coursera: Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
-- [Coursera: Machine Learning: Algorithms in the Real World Specialization](https://www.coursera.org/specializations/machine-learning-algorithms-real-world?utm_medium=email&utm_source=marketing&utm_campaign=A39CcMUuEempyReieZALEQ)
+- [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)(Recommended)
+- [Coursera: Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)(Less Recommended)
 
 **Books:**
 - [Hands On Machine Learning](https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view?usp=sharing)
-- [Introduction to Statistical Learning with Applications in python](https://www.statlearning.com/)
- 
+
 ### 3. **Feature Engineering**<br>
 - [Tutorial](https://www.kaggle.com/learn/feature-engineering)-Kaggle<br>
 - [Medium Blog](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)-
