@@ -1,8 +1,8 @@
 <h1 align="center">Full Roadmap 2024</h1> 
 
-### This roadmap is divided into 3 levels:
+### This roadmap is Divided into 3 levels:
 ```plaintext
-1. Beginner: Learn the tools that will help you complete your journey.
+1. Funndemtals: Learn the tools that will help you complete your journey.
 2. Intermediate: Dive deeper into cleaning, visualizations, and other topics.
 3. Advanced A: Start your ML and Math journey.
    Advanced B: Discover Deep Learning, Computer Vision, and NLP.
@@ -11,50 +11,43 @@
 
 # Beginner
 
-### 1. **Python**  
-**English:**  
-- [Udacity](https://classroom.udacity.com/courses/ud1110)  
-
-**Arabic:**  
-- [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)  
+### 1. ***Python***  
+- [Getting Started with Python](https://www.coursera.org/learn/python?specialization=python)  
+- [Getting Started with Python](https://www.coursera.org/learn/python?specialization=python)  
 
 ### 2. **OOP** 
-**English:** 
-- [Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)(Recommended)
-- [DataCamp (paid)](https://learn.datacamp.com/courses/object-oriented-programming-in-python)
+***English:*** 
+- [Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
+- [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance)
   
- **Arabic:**  
-- [Elzero Web School (from 103 to 116)](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=bK-yuAzPdbJkqBCI)  
-- [Codzella Crash Course](https://youtu.be/A9kSngn7254?si=NzwHJKxKlCEC4zmA)
-
+ **Libraries:**  
+  ***Pandas**  
+      - [Corey Schafer](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+      - [Kaggle Tutorial](https://www.kaggle.com/learn/pandas)
+      
+   ***Numpy*** One of them 
+      - [Huawei Talent Numpy Tutorial](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view?usp=sharing)
+      - [Numpy Tutorial For Beginners](https://www.kaggle.com/code/legendadnan/numpy-tutorial-for-beginners-data-science)
+      
+   ***Python Regular Expression***
+      - [Python Regular Expression Tutorial](https://www.datacamp.com/tutorial/python-regular-expression-tutorial)
+      
 ### 3. **Statistics**  
-**English:** 
 - [Statquist](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)(Recommended)
-- [Krish Naik](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
 - [Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)  
-- [Simple Learn Pro](https://www.youtube.com/watch?v=MXaJ7sa7q-8&list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&pp=iAQB)  
 - [Khan Academy](https://www.khanacademy.org/math/engageny-alg-1/alg1-2)
-  
-**Arabic:**
-- [Probability and Statistics for AI, DS](https://www.youtube.com/playlist?list=PLJM7jJIw2GC2Ihr__bRSeMxzsiFMZEsx7)
 
-### 4. **Numpy**  
-**English:**
-- [FreeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s)  
-- [CS231n Python-Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)  
-- [Huawei Talent Numpy Tutorial](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view?usp=sharing)
-  
- **Arabic:**  
-- [Hesham Assem (Arabic resource)](https://youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s&si=GK0RVwXP_f6jZ-TQ)  
+### 4. **Statistics**  
+**English:** 
+- [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)(Recommended- enough)
+   ***DataCamp***
+   - [introduction-to-sql]([https://www.khanacademy.org/math/engageny-alg-1/alg1-2](https://app.datacamp.com/learn/courses/introduction-to-sql))
+   - [Introduction to Relational Databases in SQL](https://app.datacamp.com/learn/courses/introduction-to-sql)
 
-### 5. **Pandas**  
-- [Corey Schafer](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)(Practice after him is recommended) 
-- [Kaggle Tutorial](https://www.kaggle.com/learn/pandas)
+### 5. **Git & GitHub**  
+- [Elzero Web School](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)(Recommended)
 
-
-### 6. **Git & GitHub**  
-- [Big Data Arabic (Recommended)](https://www.youtube.com/watch?v=Q6G-J54vgKc)  
-- [Elzero Web School](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
 
 
