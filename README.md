@@ -105,7 +105,7 @@ or<br>
 `Try to scrape websites by yourself`<br>
 
 
-*** The Nex Steps, I perefer select career Data science and AI or PowerBI
+*** The Nex Steps, I perefer select career Data science and AI or PowerBI ***
 
 
 # Advanced A
