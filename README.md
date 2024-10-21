@@ -39,8 +39,8 @@
 - [Khan Academy](https://www.khanacademy.org/math/engageny-alg-1/alg1-2)
 
 ### 4. **Statistics**  
-**English:** 
 - [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)(Recommended- enough)
+  
    ***DataCamp***
    - [introduction-to-sql]([https://www.khanacademy.org/math/engageny-alg-1/alg1-2](https://app.datacamp.com/learn/courses/introduction-to-sql))
    - [Introduction to Relational Databases in SQL](https://app.datacamp.com/learn/courses/introduction-to-sql)
