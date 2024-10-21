@@ -33,7 +33,8 @@
 - [Khan Academy](https://www.khanacademy.org/math/engageny-alg-1/alg1-2)
 
 ### 3. **SQL**  
-- [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)(Recommended- enough)
+- [ITI](https://www.youtube.com/watch?v=QJHy89zMvj8&list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA)
+- [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)(Recommended- enough with iti course)
   
    ***DataCamp***
    - [introduction-to-sql](https://app.datacamp.com/learn/courses/introduction-to-sql)
@@ -52,22 +53,20 @@ there will be some recommended datasets for you to work on.<br>
 
 ### 1. **Data Cleaning**  
 `One of the MOST important skills that you need to master to become a good data scientist`<br>
-
-- [Data camp video](https://www.youtube.com/live/lQ_K_DHssxo?si=2ZvX_mNk6GIRegpy)<br>
-- [Data camp course](https://www.datacamp.com/courses/cleaning-data-in-python)-(paid)<br>
+- [Data camp course](https://www.datacamp.com/courses/cleaning-data-in-python)<br>
 - [kaggle](https://www.kaggle.com/learn/data-cleaning)<br>
 - [Medium](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br>
 
-**datasets:**
- - [Shoe price](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)<br>
- - [candy](https://docs.google.com/spreadsheets/d/1GuI-bFZja4alVIuyOeVqkQ2xc3yZBAmz/edit?usp=sharing&ouid=101886629841012184512&rtpof=true&sd=true)
+   **Practices Datasets:**
+    - [Shoe price](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)<br>
+    - [candy](https://docs.google.com/spreadsheets/d/1GuI-bFZja4alVIuyOeVqkQ2xc3yZBAmz/edit?usp=sharing&ouid=101886629841012184512&rtpof=true&sd=true)
 
 
 ### 2. **Matplotlib**<br>
  - [Corey Schafer](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&pp=iAQB)<br>
  
-**dataset:**
-  - [Airline Passengers satification](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)<br>
+   **Practice Sataset:**
+     - [Airline Passengers satification](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)<br>
 
  
 ### 3. **Seaborn**<br>
@@ -76,8 +75,8 @@ or<br>
 - [introduction to Data Visualization](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)(paid)
 - [Intermediate Data Visualization](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)(paid)
 
-**dataset:**
- - [Super market sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?authuser=0)
+   **Practice Sataset:**
+    - [Super market sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?authuser=0)
 
 
 ### 4. **EDA** 
@@ -88,36 +87,25 @@ or<br>
 - [Simplilearn](https://youtu.be/MoM6mighOJM?si=QL2TL5n9SvHQitgA)<br>
 - [Datacamp](https://learn.datacamp.com/courses/exploratory-data-analysis-in-python)(paid)
 
-**datsets:**
- -[Telecom Churn](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)
- -[Netfix](https://www.kaggle.com/datasets/disham993/9000-movies-dataset?authuser=0)
+   **Practice Datsets:**
+    -[Telecom Churn](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)
+    -[Netfix](https://www.kaggle.com/datasets/disham993/9000-movies-dataset?authuser=0)
 
 
 ### 6. **power bi**<br>
-**English:** 
 - [Alex the Analyst](https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys)
-
-**Arabic**
-- [zanoon lab](https://www.youtube.com/watch?v=P_Nr0FMyn9w&list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63)(Recommended)
+- [ITI labs](https://www.youtube.com/watch?v=P_Nr0FMyn9w&list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63)(Recommended)
 
 ### 7. **Tableau**<br>
 - [Udacity](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)<br>
 
 
-### 8. **SQL and DB**<br>
-**English:** 
-- [Udacity](https://www.udacity.com/course/sql-for-data-analysis--ud198)<br>
-
-**Arabic**
-- [ITI](https://www.youtube.com/watch?v=QJHy89zMvj8&list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA)
-
 ### 9. **Web scraping** <br>
 - [Codzilla](https://www.youtube.com/watch?v=taL3r_JpwBg&pp=ygUMd2ViIHNjcmFwaW5n)
 `Try to scrape websites by yourself`<br>
 
-### 10. **Regex**<br>
-- [Corey Schafer](https://www.youtube.com/watch?v=K8L6KVGG-7o&pp=ygUPUmVnZXggaW4gcHl0aG9u)
-- [Tutorial](https://www.w3schools.com/python/python_regex.asp)
+
+*** The Nex Steps, I perefer select career Data science and AI or PowerBI
 
 
 # Advanced A
