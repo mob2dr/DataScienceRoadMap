@@ -1,8 +1,8 @@
-<h1 align="center">Full Roadmap 2024</h1> 
+<h1 align="center">Roadmap </h1> 
 
 ### This roadmap is Divided into 3 levels:
 ```plaintext
-1. Funndemtals: Learn the tools that will help you complete your journey.
+1. Beginner: Learn the tools that will help you complete your journey.
 2. Intermediate: Dive deeper into cleaning, visualizations, and other topics.
 3. Advanced A: Start your ML and Math journey.
    Advanced B: Discover Deep Learning, Computer Vision, and NLP.
