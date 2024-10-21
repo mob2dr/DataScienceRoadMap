@@ -13,14 +13,8 @@
 
 ### 1. ***Python***  
 - [Getting Started with Python](https://www.coursera.org/learn/python?specialization=python)  
-- [Getting Started with Python](https://www.coursera.org/learn/python?specialization=python)  
-
-### 2. **OOP** 
-***English:*** 
-- [Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
-- [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
-- [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance)
-  
+- [Getting Started with Python](https://www.coursera.org/learn/python?specialization=python)
+    
  **Libraries:**  
   ***Pandas**  
       - [Corey Schafer](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
@@ -33,12 +27,12 @@
    ***Python Regular Expression***
       - [Python Regular Expression Tutorial](https://www.datacamp.com/tutorial/python-regular-expression-tutorial)
       
-### 3. **Statistics**  
+### 2. **Statistics**  
 - [Statquist](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)(Recommended)
 - [Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)  
 - [Khan Academy](https://www.khanacademy.org/math/engageny-alg-1/alg1-2)
 
-### 4. **Statistics**  
+### 3. **SQL**  
 - [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)(Recommended- enough)
   
    ***DataCamp***
